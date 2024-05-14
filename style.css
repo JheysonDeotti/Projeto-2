@@ -37,6 +37,11 @@ button {
     letter-spacing: 1px;
 }
 
+div {
+    display: inline-block;
+    margin-left: 140px;
+}
+
 img {
     
     margin-left: 121px;
@@ -47,7 +52,6 @@ img {
 mid {
     display: inline-block;
     margin-left: 86px;
-    width: 493px;
 }
 
 h1 {
@@ -65,6 +69,7 @@ p {
     margin-top: 47px;
     margin-bottom: 55px;
     letter-spacing: 0.596px;
+    width: 493px;
 }
 
 .link-mid {
